@@ -16,9 +16,11 @@
 - **Yearly Emission Conversion:** Convert daily and weekly inputs into yearly emissions.
 - **Results Display:** View detailed emissions by category and overall carbon footprint.
 
-## Demo
+## Live Demo
 
-You can view a live demo of the application [here]([https://link-to-demo.com](https://ishikacasley14-ecofootprint-calculator-app-pfhoe6.streamlit.app/)). 
+You can try out the live version of the EcoFootprint Calculator at the following link:
+
+[EcoFootprint Calculator App](https://ishikacasley14-ecofootprint-calculator-app-pfhoe6.streamlit.app/)
 
 ## Installation
 
