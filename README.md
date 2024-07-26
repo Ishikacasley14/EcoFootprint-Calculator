@@ -2,7 +2,7 @@
 
 **Carbon Footprint Tracker** is a web application designed to calculate and analyze your carbon footprint based on various factors such as daily commute, electricity consumption, diet, and waste generation. This app helps users understand their environmental impact and provides insights into how their carbon emissions compare to global averages.
 
-![Carbon Footprint Tracker](path/to/your/image.png)  <!-- Replace with your project image -->
+![Carbon Footprint Tracker](imgs/Screenshot 2024-07-26 131613.png)  <!-- Replace with your project image -->
 
 ## Features
 
