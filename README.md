@@ -29,13 +29,13 @@ To run this application locally, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Carbon-Footprint-Tracker.git
+    git clone https://github.com/Ishikacasley14/EcoFootprint-Calculator.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd Carbon-Footprint-Tracker
+    cd EcoFootprint-Calculator
     ```
 
 3. **Set Up a Virtual Environment:**
