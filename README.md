@@ -108,7 +108,14 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
+
+### Summary of the MIT License
+
+The MIT License is a permissive free software license that allows you to use, modify, and distribute the software, as long as the original copyright notice and permission notice are included in all copies or substantial portions of the software. The software is provided "as is", without warranty of any kind.
+
+For more detailed information, see the [LICENSE](LICENSE) file.
+
 
 ## Contact
 
