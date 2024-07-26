@@ -18,7 +18,7 @@
 
 ## Demo
 
-You can view a live demo of the application [here](https://link-to-demo.com). 
+You can view a live demo of the application [here]([https://link-to-demo.com](https://ishikacasley14-ecofootprint-calculator-app-pfhoe6.streamlit.app/)). 
 
 ## Installation
 
